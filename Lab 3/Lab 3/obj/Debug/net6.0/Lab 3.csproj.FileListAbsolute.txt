@@ -1,0 +1,32 @@
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\appsettings.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.staticwebassets.runtime.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.exe
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.deps.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.runtimeconfig.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.dll
+C:\Users\kamil\source\repos\Lab 3\Lab 3\bin\Debug\net6.0\Lab 3.pdb
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.RazorAssemblyInfo.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.RazorAssemblyInfo.cs
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets\msbuild.Lab 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab 3.props
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab 3.props
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab 3.props
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\scopedcss\bundle\Lab 3.styles.css
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\scopedcss\projectbundle\Lab 3.bundle.scp.css
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.dll
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\refint\Lab 3.dll
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.pdb
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\Lab 3.genruntimeconfig.cache
+C:\Users\kamil\source\repos\Lab 3\Lab 3\obj\Debug\net6.0\ref\Lab 3.dll
